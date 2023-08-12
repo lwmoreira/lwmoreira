@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 Eu sou Luciano Moreira, sou programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
