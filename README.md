@@ -25,8 +25,7 @@ Conecte-se comigo:
 
  Languages and Tools:
   
-<code><img heigth="20" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </code> <code><img heigth="20"  width="22px"  
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </code><code><img heigth="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> </code>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ![lwmoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=lwmoreira&show_icons=true&theme=neon)
 <br>
