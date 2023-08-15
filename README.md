@@ -1,6 +1,13 @@
 ### Olá! 👋
 
-Eu sou Luciano Moreira, sou programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou Luciano Moreira
+<br>
+- 🤔 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **DEVCLUB** no <a href="https://rodolfomori.com.br/">DevClub</a>.
+  <br>
+  <h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
 <br>
 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -25,6 +32,14 @@ Conecte-se comigo:
 ![lwmoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=lwmoreira&show_icons=true&theme=neon)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwmoreira)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+**Ferramentas de Desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+
   
 
 
