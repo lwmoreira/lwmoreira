@@ -1,4 +1,7 @@
-https://www.canva.com/design/DAF2O5axuuQ/GwvJuCxXnJeQgvSKQ1c4UQ/edit?utm_content=DAF2O5axuuQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<div align="center">
+
+![Orange Modern Technology LinkedIn Banner](https://github.com/lwmoreira/lwmoreira/assets/106601319/6eb3ea48-2036-4541-9504-5da597c9d73f)
+ari.jpg)
 
 ### Olá! 👋
 
