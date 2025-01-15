@@ -7,7 +7,7 @@
 
 Eu sou Luciano Moreira
 <br>
-DESENVOLVEDOR FRONT - END
+DESENVOLVEDOR FULL-STACK
 - 🤔 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **DEVCLUB** no <a href="https://rodolfomori.com.br/">DevClub</a>.
   <br>
