@@ -1,6 +1,6 @@
 <div align="center">
 
-![Orange Modern Technology LinkedIn Banner](https://github.com/lwmoreira/lwmoreira/assets/106601319/6eb3ea48-2036-4541-9504-5da597c9d73f)
+![Orange Modern Technology LinkedIn Banner](https://github.com/lwmoreira/lwmoreira/assets/)
 
 
 ### Olá! 👋
